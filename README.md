@@ -1,7 +1,5 @@
 # SQL Projects Portfolio 📊
 
-![SQL Projects Banner](assets/sql_banner.png)
-
 This repository contains a collection of **SQL projects**, covering various **data analysis and manipulation techniques** using real-world datasets.  
 
 ## 📌 Project Overview  
